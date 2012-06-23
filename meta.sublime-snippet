@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<meta name="${1}" content="${2}">${3}]]></content>
+  <tabTrigger>meta</tabTrigger>
+</snippet>
