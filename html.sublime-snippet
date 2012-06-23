@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[<!DOCTYPE html>
+<html lang=en-ca>
+<head>
+  <meta charset=utf-8>
+  <title>${1}</title>
+</head>
+<body>
+  ${2}
+</body>
+</html>]]></content>
+  <tabTrigger>html5</tabTrigger>
+</snippet>
