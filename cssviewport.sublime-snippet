@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }]]></content>
+  <tabTrigger>cssviewport</tabTrigger>
+</snippet>
