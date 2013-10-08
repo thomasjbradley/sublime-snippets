@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[# robotstxt.org
+
+Sitemap: http://${1}/sitemap.xml
+
+User-Agent: *]]></content>
+  <tabTrigger>robotstxt</tabTrigger>
+</snippet>

@@ -1,0 +1,36 @@
+<snippet>
+  <content><![CDATA[# humanstxt.org
+
+# TEAM
+
+${1:Designer & Developer}: ${2:Thomas J Bradley}
+Site: ${3:http://thomasjbradley.ca}
+GitHub: ${4:https://github.com/thomasjbradley}
+Twitter: @${5:thomasjbradley}
+Location: ${6:Ottawa, Canada}
+
+---
+
+# THANKS
+
+${7}
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text 3 (with Vintageous)
+- Git + GitHub
+- Grunt.js
+- CoffeeScript
+- Stylus
+- UglifyJS
+- Markdown
+
+## Hosting
+
+- WiredTree <http://wiredtree.com>]]></content>
+  <tabTrigger>humanstxt</tabTrigger>
+</snippet>

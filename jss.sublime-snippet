@@ -1,4 +1,4 @@
 <snippet>
-  <content><![CDATA[<script src="${1}.js"></script>${2}]]></content>
+  <content><![CDATA[<script src="${1}.js"></script>]]></content>
   <tabTrigger>jss</tabTrigger>
 </snippet>
