@@ -3,17 +3,17 @@
 
 # TEAM
 
-${1:Designer & Developer}: ${2:Thomas J Bradley}
-Site: ${3:http://thomasjbradley.ca}
-GitHub: ${4:https://github.com/thomasjbradley}
-Twitter: @${5:thomasjbradley}
-Location: ${6:Ottawa, Canada}
+${1:Designer & Developer}: ${2:Thomas J Bradley} <${3:hey@thomasjbradley.ca}>
+Site: ${4:http://thomasjbradley.ca}
+GitHub: ${5:https://github.com/thomasjbradley}
+Twitter: @${6:thomasjbradley}
+Location: ${7:Ottawa, Canada}
 
 ---
 
 # THANKS
 
-${7}
+${8}
 
 ---
 
