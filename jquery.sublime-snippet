@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<script src="http://code.jquery.com/jquery-${1:2.0.3}.min.js"></script>]]></content>
+  <tabTrigger>jquery</tabTrigger>
+</snippet>
