@@ -3,6 +3,7 @@
 
 Sitemap: http://${1}/sitemap.xml
 
-User-Agent: *]]></content>
+User-Agent: *
+Disallow:]]></content>
   <tabTrigger>robotstxt</tabTrigger>
 </snippet>
