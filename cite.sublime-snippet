@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[- “${1:TITLE}” © ${2:AUTHOR}
+  Used under CC BY-SA
+  ${3:URL}]]></content>
+  <tabTrigger>cite</tabTrigger>
+</snippet>

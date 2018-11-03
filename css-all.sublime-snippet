@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[<link href="css/modules.css" rel="stylesheet">
+<link href="css/grid.css" rel="stylesheet">
+<link href="css/type.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">]]></content>
+  <tabTrigger>cssall</tabTrigger>
+</snippet>
