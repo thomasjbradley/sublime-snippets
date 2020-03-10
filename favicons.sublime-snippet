@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[<link rel="shortcut icon" href="favicon.ico">
+<link rel="icon" type="image/png" href="favicon-196.png">]]></content>
+  <tabTrigger>favicons</tabTrigger>
+</snippet>
